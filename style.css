@@ -9,8 +9,6 @@ body, h1, h2, p {
 
 body {
     font-family: 'Roboto', sans-serif;
-
-
 }
 
 .header, .container1, .footer, .card {
@@ -29,7 +27,6 @@ body {
 ul {
     margin: 0px;
     list-style-type: none;
-
 }
 ul li {
     display: inline;
@@ -51,7 +48,7 @@ ul li {
     align-items: center;
 }
 
-.button, .button-white-border {
+.button {
     max-width: 150px;
     min-width: 150px;
     background-color: #3882F6;
@@ -82,7 +79,6 @@ ul li {
     flex: 1;
     margin-left: 20px;
     padding: 50px 50px;
-
 }
 
 .container1 h1 {
@@ -138,7 +134,7 @@ blockquote {
     font-weight: 50;
     color: #1f2937;
     margin-top: 0px;
-    margin-bot:0px
+    margin-bottom:0px
 }
 
 .quote-container p {
@@ -162,7 +158,6 @@ blockquote {
 
 
 .button-white-border {
-    
     border: 2px solid #e5e7eb;
 }
 
